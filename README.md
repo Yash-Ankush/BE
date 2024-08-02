@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-    <h1>Semester VII Course Materials</h1>
+    <h1>Semester 7 Course Materials</h1>
     <p>A repository containing course materials for Semester V. Includes notes, textbooks, and resources for the following subjects:</p>
     <ul>
         <li><strong>410241: Design and Analysis of Algorithms</strong></li>
